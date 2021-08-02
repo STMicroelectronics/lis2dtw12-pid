@@ -38,7 +38,7 @@ This directory contains the LIS2DTW12 component drivers.
 
 ### First release
 
-- First official release
+- First official release [ref. DS v1.0]
 
 ##
 

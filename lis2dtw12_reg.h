@@ -835,7 +835,7 @@ int32_t lis2dtw12_data_ready_mode_get(const stmdev_ctx_t *ctx,
 
 typedef enum
 {
-  LIS2DTW12_LPF_ON_OUT         = 0x00,
+  LIS2DTW12_LPF_ON_OUT          = 0x00,
   LIS2DTW12_USER_OFFSET_ON_OUT  = 0x01,
   LIS2DTW12_HIGH_PASS_ON_OUT    = 0x10,
 } lis2dtw12_fds_t;
